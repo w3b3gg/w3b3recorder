@@ -5,7 +5,7 @@
 
 ## How to install - Todo
 
-1. Download zip on [marcobrunodev.itch.io/w3b3cursor](https://marcobrunodev.itch.io/w3b3recorder)
+1. Download zip on [marcobrunodev.itch.io/w3b3recorder](https://marcobrunodev.itch.io/w3b3recorder)
 2. Import zip on ct.js
    
 ## Get Started - Todo
