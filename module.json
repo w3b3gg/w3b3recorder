@@ -1,0 +1,16 @@
+{
+  "main": {
+    "name": "w3b3recorder",
+    "tagline": "Record gameplays for reports and complaints about cheating users",
+    "version": "0.1.5",
+    "authors": [
+      {
+        "name": "Marco Bruno",
+        "mail": "marco.bruno.dev@proton.me"
+      }
+    ],
+    "categories": [
+      "media"
+    ]
+  }
+}
