@@ -13,8 +13,8 @@
 1. Open ctjs in your PC
 
 ## Next features
-[ ] documentation
-[ ] mp4 recording
+- [ ] documentation
+- [ ] mp4 recording
 
 # License
 [MPL-2.0](https://www.mozilla.org/en-US/MPL/2.0)
