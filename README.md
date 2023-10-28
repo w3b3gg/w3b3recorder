@@ -13,8 +13,10 @@
 1. Open ctjs in your PC
 
 ## Next features
+- [ ] create types.d.ts
 - [ ] documentation
 - [ ] mp4 recording
+
 
 # License
 [MPL-2.0](https://www.mozilla.org/en-US/MPL/2.0)
